@@ -1,6 +1,6 @@
 # css-reset
 
-`css
+```css
 /* Box sizing rules*/
 *,
 *::before,
@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-/* Reseet margin, padding and font-size */
+/* Reset margin, padding and font-size */
 * {
   margin: 0;
   padding: 0;
@@ -88,4 +88,4 @@ img:not([alt]) {
   transition: none !important;
 }
 
-`
+```
